@@ -6,7 +6,7 @@ import { Provider } from 'react-redux'
 import { store } from './config/redux/store.js'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './layout.jsx'
-import Cart from './cart.jsx'
+import Cart from './Cart.jsx'
 
 
 const router = createBrowserRouter([{
